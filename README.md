@@ -16,3 +16,10 @@ Key Questions to Answer in Your Analysis:
 7.   How are patients admitted - mostly through emergency, urgent, or planned admissions - and how does that impact the length of stay or treatment costs?
 8.   Which insurance companies are covering the most patients, and how does that relate to treatment costs and patient outcomes?
 9.   Where are the hospitals located, and are there any regional differences in health conditions, treatment quality, or billing amounts?
+
+
+![Page1](https://github.com/user-attachments/assets/0974ad5e-7aa4-4ca1-84ae-6ef71441e936)
+
+![Page2](https://github.com/user-attachments/assets/60c30b4f-939b-45bb-8a8d-994c4f0a21e0)
+
+![Page3](https://github.com/user-attachments/assets/1d29e397-112e-45f5-8f84-238606bea20f)
